@@ -45,4 +45,5 @@ def make_guess():
             pass
 
 
-main()
+if __name__ == "__main__":
+    main()
