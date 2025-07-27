@@ -35,9 +35,9 @@ This repository will contain:
 - [CS50P Course Page](https://cs50.harvard.edu/python/)
 - [CS50P on edX](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 
-## Progress
+## Problem Set
 
-:white_check_mark: Week 0: Functions, Variables
+- [ x ] Week 0: Functions, Variables
 
 1. [Indoor Voice](https://cs50.harvard.edu/python/2022/psets/0/indoor/)
 2. [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/)
@@ -45,7 +45,7 @@ This repository will contain:
 4. [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein/)
 5. [Tip Calculator](https://cs50.harvard.edu/python/2022/psets/0/tip/)
 
-:white_check_mark: Week 1: Conditionals
+- [ x ] Week 1: Conditionals
 
 6. [Deep Thought](https://cs50.harvard.edu/python/2022/psets/1/deep/)
 7. [Home Federal Savings Bank](https://cs50.harvard.edu/python/2022/psets/1/bank/)
@@ -53,7 +53,7 @@ This repository will contain:
 9. [Math Interpreter](https://cs50.harvard.edu/python/2022/psets/1/interpreter/#math-interpreter)
 10. [Meal Time](https://cs50.harvard.edu/python/2022/psets/1/meal/)
 
-:white_check_mark: Week 2: Loops
+- [ x ] Week 2: Loops
 
 11. [camelCase](https://cs50.harvard.edu/python/2022/psets/2/camel/)
 12. [Coke Machine](https://cs50.harvard.edu/python/2022/psets/2/coke/)
@@ -61,17 +61,17 @@ This repository will contain:
 14. [Vanity Plates](https://cs50.harvard.edu/python/2022/psets/2/plates/)
 15. [Nutrition Facts](https://cs50.harvard.edu/python/2022/psets/2/nutrition/)
 
-:white_check_mark: Week 3: Exceptions
+- [ x ] Week 3: Exceptions
 
 16. [Fuel Gauge](https://cs50.harvard.edu/python/2022/psets/3/fuel/)
 17. [Felipe's Taqueria](https://cs50.harvard.edu/python/2022/psets/3/taqueria/)
 18. [Grocery List](https://cs50.harvard.edu/python/2022/psets/3/grocery/)
 19. [Outdated](https://cs50.harvard.edu/python/2022/psets/3/outdated/)
 
-:white_check_mark: Week 4: Libraries
+- [ x ] Week 4: Libraries
 
-20. [Emojize](https://cs50.harvard.edu/python/2022/psets/4/emojize/
-21. [Adieu](https://cs50.harvard.edu/python/2022/psets/4/adieu/
+20. [Emojize](https://cs50.harvard.edu/python/2022/psets/4/emojize/)
+21. [Adieu](https://cs50.harvard.edu/python/2022/psets/4/adieu/)
 22. [Guessing Game](https://cs50.harvard.edu/python/2022/psets/4/game/)
 23. [Little Professor](https://cs50.harvard.edu/python/2022/psets/4/professor/)
 24. [Bitcoin Price Index](https://cs50.harvard.edu/python/2022/psets/4/bitcoin/)
