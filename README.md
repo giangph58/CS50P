@@ -20,9 +20,9 @@ CS50P is Harvard University's introduction to programming with Python. The cours
 
 This repository will contain:
 - Problem set solutions
-- Lecture notes and examples
-- Practice exercises
 - Final project
+- References to lecture notes and examples
+
 
 ## Getting Started
 
