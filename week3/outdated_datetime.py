@@ -52,4 +52,5 @@ def print_reformatted_date(date):
     print(formatted_date)
 
 
-main()
+if __name__ == "__main__":
+    main()

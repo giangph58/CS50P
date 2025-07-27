@@ -19,4 +19,5 @@ def main():
     print(f"Adieu, adieu, to {p.join(names)}")
 
 
-main()
+if __name__ == "__main__":
+    main()

@@ -66,4 +66,5 @@ def print_reformatted_date(d, months):
         print(f"{y}-{m:02}-{d:02}")
 
 
-main()
+if __name__ == "__main__":
+    main()
