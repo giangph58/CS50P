@@ -13,5 +13,5 @@ def percent_to_float(p):
     return float(p.replace("%", "")) / 100
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     main()
