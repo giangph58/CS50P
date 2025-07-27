@@ -38,4 +38,5 @@ def display_calories(fruit):
         print(nutrition_facts[fruit])
 
 
-main()
+if __name__ == "__main__":
+    main()
