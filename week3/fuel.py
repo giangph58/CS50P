@@ -29,4 +29,5 @@ def print_fuel(p):
         print(f"{p:.0f}%")
 
 
-main()
+if __name__ == "__main__":
+    main()
