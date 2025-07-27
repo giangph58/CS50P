@@ -1,27 +1,26 @@
 # CS50P - Introduction to Programming with Python
 
-This repository contains my solutions and notes for Harvard's CS50P (Introduction to Programming with Python) course.
+This repository contains my solutions and notes for [Harvard's CS50P](https://cs50.harvard.edu/python/) (Introduction to Programming with Python) course.
 
 ## Course Overview
 
 CS50P is Harvard University's introduction to programming with Python. The course covers:
-- Functions and variables
-- Conditionals
-- Loops
-- Exceptions
-- Libraries
-- Unit tests
-- File I/O
-- Regular expressions
-- Object-oriented programming
-- Et cetera
-
+- [Functions and variables](https://cs50.harvard.edu/python/notes/0/)
+- [Conditionals](https://cs50.harvard.edu/python/notes/1/)
+- [Loops](https://cs50.harvard.edu/python/notes/2/)
+- [Exceptions](https://cs50.harvard.edu/python/notes/3/)
+- [Libraries](https://cs50.harvard.edu/python/notes/4/)
+- [Unit Tests](https://cs50.harvard.edu/python/notes/5/)
+- [File I/O](https://cs50.harvard.edu/python/notes/6/)
+- [Regular expressions](https://cs50.harvard.edu/python/notes/7/)
+- [Object-oriented programming](https://cs50.harvard.edu/python/notes/8/)
+- [Et cetera](https://cs50.harvard.edu/python/notes/9/)
 ## Repository Structure
 
 This repository will contain:
+- References to lecture notes
 - Problem set solutions
 - Final project
-- References to lecture notes and examples
 
 
 ## Getting Started
@@ -29,11 +28,6 @@ This repository will contain:
 1. Clone this repository
 2. Navigate to the specific problem set or topic directory
 3. Review the code and comments
-
-## Course Resources
-
-- [CS50P Course Page](https://cs50.harvard.edu/python/)
-- [CS50P on edX](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 
 ## Problem Set
 
