@@ -15,6 +15,7 @@ venv/
 
 # IDE specific files (example for VS Code)
 .vscode/
+*.code-workspace
 
 # Operating System temporary files
 .DS_Store
