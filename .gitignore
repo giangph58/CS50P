@@ -1,0 +1,25 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Pytest
+.pytest_cache/
+
+
+# uv lock file
+uv.lock
+
+# Virtual environment (if not managed by uv directly in a project-specific way)
+.venv/
+venv/
+
+# IDE specific files (example for VS Code)
+.vscode/
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+
+
+# Claude Code
+CLAUDE.md
