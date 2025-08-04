@@ -79,6 +79,12 @@ This repository will contain:
 
 
 - [ ] Week 6: File I/O
+
+29. [Lines of Code](https://cs50.harvard.edu/python/psets/6/lines/)
+30. [Pizza Py](https://cs50.harvard.edu/python/psets/6/pizza/)
+31. [Scourgify](https://cs50.harvard.edu/python/psets/6/scourgify/)
+32. [CS50 P-Shirt](https://cs50.harvard.edu/python/psets/6/shirt/)
+
 - [ ] Week 7: Regular Expressions
 - [ ] Week 8: Object-Oriented Programming
 - [ ] Week 9: Et Cetera
