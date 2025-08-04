@@ -1,5 +1,6 @@
 import sys
 from PIL import Image, ImageOps
+import os
 
 
 def main():
@@ -15,9 +16,16 @@ def main():
 
     if not infile.lower().endswith(valid_extensions) or not outfile.lower().endswith(valid_extensions):
         sys.exit("Invalid input")
-    if infile[-3:] != outfile[-3:]:
-        sys.exit("Input and output have different extensions")
     
+    inext = os.path.splitext(infile.lower())[1]
+    outext = os.path.splitext(outfile.lower())[1]
+    
+    if inext == '.jpeg': inext = '.jpg'
+    if outext == '.jpeg': outext = '.jpg'
+
+    if inext != outext:
+        sys.exit("Input and output have different extensions")
+
     try:
         input_image = Image.open(infile)
         shirt_image = Image.open("./shirt.png")
