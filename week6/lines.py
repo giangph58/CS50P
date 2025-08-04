@@ -8,13 +8,13 @@ def main():
     if len(sys.argv) < 2:
         sys.exit("Too few command-line arguments")
     
-    file_name = sys.argv[1]
+    filename = sys.argv[1]
     
-    if not file_name.endswith(".py"):
+    if not filename.endswith(".py"):
         sys.exit("Not a Python file")
     
     try:
-        with open(sys.argv[1], "r") as file:
+        with open(filename, "r") as file:
             code_count = sum(1 for line in file if is_code(line))
             print(code_count)
     except FileNotFoundError:
