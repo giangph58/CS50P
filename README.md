@@ -70,7 +70,14 @@ This repository will contain:
 23. [Little Professor](https://cs50.harvard.edu/python/2022/psets/4/professor/)
 24. [Bitcoin Price Index](https://cs50.harvard.edu/python/2022/psets/4/bitcoin/)
 
-- [ ] Week 5: Unit Tests
+- [x] Week 5: Unit Tests
+
+25. [Testing my twttr](https://cs50.harvard.edu/python/psets/5/test_twttr/)
+26. [Back to the Bank](https://cs50.harvard.edu/python/psets/5/test_bank/)
+27. [Re-requesting a Vanity Plate](https://cs50.harvard.edu/python/psets/5/test_plates/)
+28. [Refueling](https://cs50.harvard.edu/python/psets/5/test_fuel/)
+
+
 - [ ] Week 6: File I/O
 - [ ] Week 7: Regular Expressions
 - [ ] Week 8: Object-Oriented Programming
