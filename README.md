@@ -78,14 +78,26 @@ This repository will contain:
 28. [Refueling](https://cs50.harvard.edu/python/psets/5/test_fuel/)
 
 
-- [ ] Week 6: File I/O
+- [x] Week 6: File I/O
 
 29. [Lines of Code](https://cs50.harvard.edu/python/psets/6/lines/)
 30. [Pizza Py](https://cs50.harvard.edu/python/psets/6/pizza/)
 31. [Scourgify](https://cs50.harvard.edu/python/psets/6/scourgify/)
 32. [CS50 P-Shirt](https://cs50.harvard.edu/python/psets/6/shirt/)
 
-- [ ] Week 7: Regular Expressions
+- [x] Week 7: Regular Expressions
+
+33. [NUMB3RS](https://cs50.harvard.edu/python/psets/7/numb3rs/)
+34. [Watch on YouTube](https://cs50.harvard.edu/python/psets/7/watch/)
+35. [Working 9 to 5](https://cs50.harvard.edu/python/psets/7/working/)
+36. [Regular, um, Expressions](https://cs50.harvard.edu/python/psets/7/um/)
+37. [Response Validation](https://cs50.harvard.edu/python/psets/7/response/)
+
 - [ ] Week 8: Object-Oriented Programming
+
+38. [Seasons of Love](https://cs50.harvard.edu/python/psets/8/seasons/)
+39. [Cookie Jar](https://cs50.harvard.edu/python/psets/8/jar/)
+40. [CS50 Shirtificate](https://cs50.harvard.edu/python/psets/8/shirtificate/)
+
 - [ ] Week 9: Et Cetera
 - [ ] Final Project
