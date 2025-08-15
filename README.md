@@ -99,5 +99,3 @@ This repository will contain:
 39. [Cookie Jar](https://cs50.harvard.edu/python/psets/8/jar/)
 40. [CS50 Shirtificate](https://cs50.harvard.edu/python/psets/8/shirtificate/)
 
-- [ ] Week 9: Et Cetera
-- [ ] Final Project
