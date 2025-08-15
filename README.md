@@ -93,7 +93,7 @@ This repository will contain:
 36. [Regular, um, Expressions](https://cs50.harvard.edu/python/psets/7/um/)
 37. [Response Validation](https://cs50.harvard.edu/python/psets/7/response/)
 
-- [ ] Week 8: Object-Oriented Programming
+- [x] Week 8: Object-Oriented Programming
 
 38. [Seasons of Love](https://cs50.harvard.edu/python/psets/8/seasons/)
 39. [Cookie Jar](https://cs50.harvard.edu/python/psets/8/jar/)
