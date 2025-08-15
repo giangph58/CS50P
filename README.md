@@ -1,6 +1,6 @@
 # CS50P - Introduction to Programming with Python
 
-This repository contains my solutions and notes for [Harvard's CS50P](https://cs50.harvard.edu/python/) (Introduction to Programming with Python) course.
+This repository contains my solutions to problem sets of [Harvard's CS50P](https://cs50.harvard.edu/python/) (Introduction to Programming with Python) course.
 
 ## Course Overview
 
@@ -20,14 +20,12 @@ CS50P is Harvard University's introduction to programming with Python. The cours
 This repository will contain:
 - References to lecture notes
 - Problem set solutions
-- Final project
-
 
 ## Getting Started
 
 1. Clone this repository
-2. Navigate to the specific problem set or topic directory
-3. Review the code and comments
+2. Navigate to weeks or specific problem sets
+3. Try and review the code
 
 ## Problem Set
 
