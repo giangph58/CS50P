@@ -29,7 +29,7 @@ def is_valid_date(date_str: str) -> bool:
         return False
 
 
-def calculate_minutes_lived(date_str):
+def calculate_minutes_lived(date_str: str) -> int:
     """Return the amount of time since date of birth in minutes."""
     birth_date = datetime.strptime(date_str, "%Y-%m-%d").date()
     today = date.today()
